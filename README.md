@@ -1,0 +1,5 @@
+# Praktikum-10-SIG
+Praktikum 10 SIG Irvan Achmad Naufal
+NAMA : IRVAN ACHMAD NAUFAL
+NIM : 15118030
+JUDUL : AIRPORTS
